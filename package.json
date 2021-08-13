@@ -19,8 +19,12 @@
   },
   "homepage": "https://github.com/CodeWithDragos/rest_universal_recipe#readme",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
-    "mongoose": "^5.13.7"
+    "express-winston": "^4.1.0",
+    "mongoose": "^5.13.7",
+    "swagger-ui": "^3.52.0",
+    "winston": "^3.3.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
